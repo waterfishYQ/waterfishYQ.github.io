@@ -1,5 +1,5 @@
 /* Here is your custom css styles. */
-/* �޸���ҳ�ֲ��ı����С */ @media only screen and (max-width: 400px) {
+/* �޸���ҳ�ֲ��ı����С */ @media only screen and (max-width: 100px) {
     .bg-cover .title {
         font-size: 2.5rem;
     }
