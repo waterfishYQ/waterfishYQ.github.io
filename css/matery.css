@@ -240,8 +240,10 @@ mark {
     margin-bottom: 0;
 }
 
+/* 整体背景颜色，包括导航、移动端的导航、页尾、标签页等的背景颜色. */
 .bg-color {
-    background-image: linear-gradient(to right, #3f1b07 0%, #3f1b07 100%);
+    /*    background-image: linear-gradient(to right, #72FADF 0%, #C5F14D 100%);*/
+    background-image: linear-gradient(to right, #0DF8B6 0%, #DBF588 100%);
 }
 /*如果想去掉banner图的颜色渐变效果，请将以下的css属性注释掉或者删除掉即可*/
 @-webkit-keyframes rainbow {
