@@ -21,14 +21,14 @@ body {
 
 /* ��ͣ�������ı�ʱ�����ָ�� */
 h1, h2, h3, h4, h5, h6, #subtitle, .content, .line, .post-content, .post-content li {
-    cursor: url('/medias/mouse/kex/normal.ani'), auto;
+    cursor: url('/medias/mouse/blue/text.cur'), auto;
 }
 
 /* ��ͣͼƬʱ�����ָ�� */
 img {
-    cursor: url('/medias/mouse/kex/normal.ani'), auto;
+    cursor: url('/medias/mouse/blue/move.cur'), auto;
 }
 /* ѡ�����ӱ�ǩʱ�����ָ�� */
 a:hover, #site-name:hover {
-    cursor: url('/medias/mouse/kex/normal.ani'), auto;
+    cursor: url('/medias/mouse/blue/link.cur'), auto;
 }
