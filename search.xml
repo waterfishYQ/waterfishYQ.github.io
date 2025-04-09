@@ -33,9 +33,21 @@
       <link href="/2025/04/09/software1/"/>
       <url>/2025/04/09/software1/</url>
       
-        <content type="html"><![CDATA[<p>今年整理u盘的资料时误删了几个视频文件，因为在u盘直接删除了，故无法在回收站找回。于是在网上找了下文件恢复软件，挑了两个比较好用的软件做出推荐。</p><h2 id="DiskGenius"><a href="#DiskGenius" class="headerlink" title="DiskGenius"></a>DiskGenius</h2><p>DiskGenius能进行数据恢复、分区管理、备份还原软件，硬盘坏道检测、数据彻底擦除，本文只进行一个数据恢复介绍。<br>主页面如图：<br><img src="/imgs/1.png" alt="test"></p><h2 id="RStudio"><a href="#RStudio" class="headerlink" title="RStudio"></a>RStudio</h2>]]></content>
+        <content type="html"><![CDATA[<p>今年整理u盘的资料时误删了几个视频文件，因为在u盘直接删除了，故无法在回收站找回。<br>于是在网上找了下文件恢复软件，挑了两个比较好用的软件做出推荐。</p><h2 id="为什么删除的数据还能找回呢"><a href="#为什么删除的数据还能找回呢" class="headerlink" title="为什么删除的数据还能找回呢"></a>为什么删除的数据还能找回呢</h2><p>当硬盘删除文件的时候，系统将磁盘空间标记为空间，并不会将文件所占用的磁盘空间进行清零。被标记为空的磁盘空间，可以再次被用来存储新的数据。也就是说，在磁盘空间被再次占用（丢失的数据被覆盖）之前，删除的文件仍然保留在U盘上。这样就给数据恢复提供了机会。</p><h2 id="DiskGenius"><a href="#DiskGenius" class="headerlink" title="DiskGenius"></a>DiskGenius</h2><p>DiskGenius能进行数据恢复、分区管理、备份还原软件，硬盘坏道检测、数据彻底擦除，本文只进行一个数据恢复介绍。<br>主页面如图：<br><img src="/imgs/1.png"><br>左侧能看到当前计算机磁盘，水鱼的磁盘为一块固态硬盘和本次测试u盘</p><p>写入视频后删除<br><img src="/imgs/2.png"></p><p>选择恢复<br><img src="/imgs/4.png"></p><p><img src="/imgs/5.png"></p><p>等待一段时间后即可找回未被覆盖的文件<br><img src="/imgs/3.png"></p><h2 id="DiskGenius软件链接"><a href="#DiskGenius软件链接" class="headerlink" title="DiskGenius软件链接"></a>DiskGenius软件链接</h2><p><a href="https://wwgf.lanzouw.com/iyhOk2t449ih">https://wwgf.lanzouw.com/iyhOk2t449ih</a></p><hr><h2 id="R-StudioPortable"><a href="#R-StudioPortable" class="headerlink" title="R-StudioPortable"></a>R-StudioPortable</h2><p>R-StudioPortable不仅支持恢复技术，也支持视频播放<br>主页面如图：<br><img src="/imgs/6.png"></p><p>选择扫描<br><img src="/imgs/7.png"></p><p>等待一段时间后即可找回未被覆盖的文件<br><img src="/imgs/8.png"></p><h2 id="R-StudioPortable软件链接"><a href="#R-StudioPortable软件链接" class="headerlink" title="R-StudioPortable软件链接"></a>R-StudioPortable软件链接</h2><p><a href="https://wwgf.lanzouw.com/iWpRX2t44dxg">https://wwgf.lanzouw.com/iWpRX2t44dxg</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 软件推荐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件推荐 </tag>
+            
+        </tags>
       
     </entry>
     

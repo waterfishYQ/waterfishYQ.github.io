@@ -311,7 +311,7 @@
     // 每天切换 banner 图.  Switch banner image every day.
     //var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
     // $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
-    $('.bg-cover').css('background-image', 'url(/medias/images/22.jpg)');
+    $('.bg-cover').css('background-image', 'url(/medias/images/28.jpg)');
 </script>
 <script>
     
@@ -344,6 +344,15 @@
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
                             style="background-color: #F9EBEA;">测试
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/" title="软件推荐: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #F5EEF8;">软件推荐
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -391,7 +400,7 @@
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"测试","max":2}],
+            indicator: [{"name":"测试","max":2},{"name":"软件推荐","max":2}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -402,7 +411,7 @@
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [1],
+                    value : [1,1],
                     name : '文章分类数量'
                 }
             ]
