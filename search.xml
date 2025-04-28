@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>C#基础-1</title>
+      <link href="/2025/04/28/Csharp/"/>
+      <url>/2025/04/28/Csharp/</url>
+      
+        <content type="html"><![CDATA[<p>c#基础入门其一：</p><p>c# 既 c sharp</p><p>依附于.NET平台</p><p>c&#x2F;c++ 编译器 机器指令</p><p>C# 编译器 IL中间语言 .NET CLR 机器指令</p><p>创建Csharp代码后，因为部分教程用的.NET平台版本为.net6以下，因此会生成以下模版：</p><figure class="highlight c#"><table><tr><td class="code"><pre><span class="line"><span class="keyword">using</span> System;</span><br><span class="line"></span><br><span class="line"><span class="keyword">namespace</span> <span class="title">xxx</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">internal</span> <span class="keyword">class</span> <span class="title">Program</span></span><br><span class="line">    &#123;</span><br><span class="line">        <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Main</span>(<span class="params"><span class="built_in">string</span>[] <span class="keyword">args</span></span>)</span></span><br><span class="line">        &#123;</span><br><span class="line">            Console.WriteLine(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>其中 namespace 中为命名控件<br>internal class 中为类型， class 为关键字，编译器看到关键字后会进行相应编译。<br>static也为关键字，从main函数开始运行，一个类型套一个函数。</p><p>而Net6以上则会隐藏该格式<br>直接显示</p><p>&#x2F;&#x2F; See <a href="https://aka.ms/new-console-template">https://aka.ms/new-console-template</a> for more information<br>Console.WriteLine(“Hello, World!”);</p><p>该代码为输出Hello, World!，感觉类似于c++中的printf语句233。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> c# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>blog测试</title>
       <link href="/2025/04/09/article-title/"/>
       <url>/2025/04/09/article-title/</url>
