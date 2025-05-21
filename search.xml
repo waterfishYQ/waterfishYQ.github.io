@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>C#变量</title>
-      <link href="/2025/04/29/Csharp-1/"/>
-      <url>/2025/04/29/Csharp-1/</url>
-      
-        <content type="html"><![CDATA[<p>c#基础入门其一：</p><p>Csharp变量</p><p>基础的语法：<br><code>变量的类型 变量的名称 = 初始值 ；</code></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> c# </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>C#基础-1</title>
       <link href="/2025/04/28/Csharp/"/>
       <url>/2025/04/28/Csharp/</url>
